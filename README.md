@@ -1,3 +1,3 @@
 # fangle.github.io
-入口
-11
+
+[百度](www.baidu.com)
